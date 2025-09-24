@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [8.12.0](https://github.com/ccbblin/basemaps/compare/v8.11.1...v8.12.0) (2025-09-24)
+
+
+### Features
+
+* init ([297a73f](https://github.com/ccbblin/basemaps/commit/297a73f759177af7a6b6eea709a53b0c7824a973))
+
+
+### Bug Fixes
+
+* **config:** DynamoDB error caused by 'undefined' value in config tilesets BM-1373 ([#3528](https://github.com/ccbblin/basemaps/issues/3528)) ([56e0db9](https://github.com/ccbblin/basemaps/commit/56e0db934c19fd6fdbf41002fc71e53b7b6312d9))
+
 ## [8.11.1](https://github.com/linz/basemaps/compare/v8.11.0...v8.11.1) (2025-09-23)
 
 
