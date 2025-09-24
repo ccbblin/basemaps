@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [8.13.0](https://github.com/ccbblin/basemaps/compare/v8.12.0...v8.13.0) (2025-09-24)
+
+
+### Features
+
+* a ([3cf044d](https://github.com/ccbblin/basemaps/commit/3cf044d2b73d39427d4b5b9ff852b00ce13d2ad4))
+
 ## [8.12.0](https://github.com/ccbblin/basemaps/compare/v8.11.1...v8.12.0) (2025-09-24)
 
 
